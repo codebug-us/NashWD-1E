@@ -42,6 +42,7 @@ Adding CSS to your Dream Vacation Site
     - Change the background color of the `"list-box"` class
     - Add padding to the `"list-box"` class
     - Add a dotted border on the `"list-box"` class
+1. Did you alphabetize your CSS? Go back through and refactor your code to be alphabetized by selector if you need to.
 
 #### Advanced Styling Suggestions!
 1. Looking at your paragraph description
