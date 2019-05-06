@@ -43,6 +43,24 @@ Adding CSS to your Dream Vacation Site
     - Add padding to the `"list-box"` class
     - Add a dotted border on the `"list-box"` class
 
+1. Now take some time to style your `application.html` however you'd like. Here's a list of CSS properties to help you out: 
+* `background-image`
+* `background-color`
+* `padding` (hint! this could look like: `padding-top`, `padding-left`, `padding-right`, `padding-bottom`)
+* `margin`
+* `width`
+* `border`
+* `display` (hint! probably used with `inline-block`)
+* `vertical-align`
+* `text-align`
+* `color`
+* `font`
+* `font-weight`
+* `font-style`
+* `border`
+* `opacity` or `rgba()`
+* AND ANY MORE THAT YOU FIND HELPFUL! (remember google is your friend)
+
 #### Advanced Styling Suggestions!
 1. Looking at your paragraph description
     - change the background color to be partially transparent using `rgba`
