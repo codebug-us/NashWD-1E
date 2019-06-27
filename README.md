@@ -50,7 +50,7 @@ Adding CSS to your Dream Vacation Site
 * `margin`
 * `width`
 * `border`
-* `display` (hint! probably used with `inline-block`)
+* `display`
 * `vertical-align`
 * `text-align`
 * `color`
